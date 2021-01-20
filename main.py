@@ -1,5 +1,4 @@
-# You should write your Python program in this file. Currently, it contains
-# a skeleton of the methods you will need to write.
+
 
 import csv
 import os
